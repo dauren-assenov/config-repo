@@ -5,4 +5,4 @@ my:
 db:
     connection: connection-string-here
     host: 127.0.0.1
-    port: 7072
+    port: 7073
