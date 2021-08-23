@@ -1,0 +1,9 @@
+my:
+	greeting: Hello WOrld
+	list:
+		values: One, Two, Three
+		
+db:
+	connection: connection-string-here
+	host: 127.0.0.1
+	port: 7071
